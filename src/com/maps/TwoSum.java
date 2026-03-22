@@ -1,6 +1,5 @@
 package com.maps;
 
-import java.sql.ResultSet;
 import java.util.HashMap;
 import java.util.Map;
 
