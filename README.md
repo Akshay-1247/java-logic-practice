@@ -25,9 +25,19 @@ More topics will be added regularly.
 ## 📂 Project Structure
 ```
 java-logic-practice
+├─ README.md
 └─ src
    └─ com
       ├─ arrays
+      │ 
+      ├─ integers
+      │  
+      ├─ maps
+      │  
+      ├─ patterns
+      │  
+      ├─ sets
+      │ 
       └─ strings
 ```
 Each package contains logically grouped problems.
